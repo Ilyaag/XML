@@ -1,1 +1,5 @@
-hallo
+<XML>
+	<NAME>"Ilya"</NAME>
+	<AGE>"26"</AGE>
+	<PETS>"1 cat"</PETS>
+	<FutureSalary>"120000"</FutureSalary>
