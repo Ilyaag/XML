@@ -1,1 +1,7 @@
-
+<XML>
+  <id>"242"</id>
+  <Title>"Spelling error in header"</Title>
+  <Playback steps>"at the entrance https://www.google.com/ displays the letter a, not o"</Playback steps>
+  <Results>"displays Gaogle instead Google"</Results>
+  <Environment>"Win 10 x64, Google Chrome 76.0.3809.100"</Environment>
+  <Priority>"Mid"</Priority>
